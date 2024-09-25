@@ -6,7 +6,7 @@ a pdf render method base on pdfjs and threeJs
 - [x] make line can display with threejs
 - [x] make rect can display with threejs
 - [x] make triangle can display with threejs
-- [ing] make cn text can display with threejs
+- [ ] make cn text can display with threejs
 - [ ] make en text can display with threejs
 - [ ] write test case to ensure the correctness
 - [ ] refactor code implement to pure js
